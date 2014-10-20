@@ -1,6 +1,1 @@
-4.1997004457,1.08250202205,29.118,speedtest1bog3.tigo.com.co:8080,Tigo4.15160553262,1.05422053716,116.34,etb-medidor.etb.net.co:8080,ETB4.05993833506,0.964588135016,121.42,etb-medidor.etb.net.co:8080,ETB
-4.21668226639,1.07794217347,19.799,mini.claro.net.co:8080,Claro Soluciones Fijas
-4.17881508243,1.08552457662,17.021,mini.claro.net.co:8080,Claro Soluciones Fijas
-4.20731979634,1.06868839371,17.172,mini.claro.net.co:8080,Claro Soluciones Fijas,2014-10-19 23:20:55.413182
-4.188573097,1.08328127536,36.44,speedtest1bog3.tigo.com.co:8080,Tigo,19-10-2014 23:25
-4.217301531,1.0870835302,15.767,mini.claro.net.co:8080,Claro Soluciones Fijas,19-10-2014 23:27
+Download,Upload,Latency,Host,Sponsor,Date
