@@ -1,1 +1,3 @@
 Download,Upload,Latency,Host,Sponsor,Date
+1.42429442212,1.08258119977,56.805,speedtest1bog3.tigo.com.co:8080,Tigo,21-10-2014 19:42
+1.19547824346,1.08362541567,34.362,mini.claro.net.co:8080,Claro Soluciones Fijas,21-10-2014 19:45
